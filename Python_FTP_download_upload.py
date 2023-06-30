@@ -68,6 +68,8 @@ def send2Ftp(recipes, local_dir):
 
 dowload = send2Ftp(recipes,local_dir)
 
+
+print("By Junior-Muyumba : muyumbaj2@gmail.com")
 print("OK JAZZ".center(80,"♠"))
 
 
